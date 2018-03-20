@@ -16,6 +16,7 @@
 	
 	<!-- pull in webfonts -->
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=BioRhyme:300|Josefin+Slab|Roboto:300" rel="stylesheet">
 
 </head>
 <body>
@@ -24,15 +25,19 @@
 	<!-- In general, you should have only one container per page. -->
 	<div class="container">
 
-        <p><a href="{{ site.url }}{{ site.baseurl }}">Home</a></p>
+        <p class="default-home"><a href="{{ site.url }}{{ site.baseurl }}">Home</a></p>
 
-        <h1>{{ page.title }}</h1>
+        <div class="post">
 
-        {% if page.date %}
-    		<p>{{ page.date | date: "%A, %B %-d, %Y" }}</p>
-        {% endif %}
+	        <h1>{{ page.title }}</h1>
 
-        {{ content }}
+	        {% if page.date %}
+	    		<p>{{ page.date | date: "%A, %B %-d, %Y" }}</p>
+	        {% endif %}
+
+	        {{ content }}
+
+	   	</div>
 
 	</div><!-- end container -->
 	
