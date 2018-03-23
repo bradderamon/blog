@@ -62,9 +62,9 @@ body {
 	display: grid;
 }
 
-article {
+/* article {
 	grid-row: repeat;
-}
+} */
 
 .default-home {
 	grid-column: 5 / 6;
