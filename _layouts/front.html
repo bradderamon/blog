@@ -25,18 +25,21 @@
 	<!-- In general, you should have only one container per page. -->
 	<div class="container">
 
-        <h1 class="front-title">{{ site.title }}</h1>
+		<h1 class="front-title">{{ site.title }}</h1>
 
-        {{ body }}
+		<div class="front-grid">
 
-        {% for post in site.posts %}
-        	<article class="front-article">
-        		<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
-        		<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
-        		{{ post.teaser }}        
-        	</article>
-        {% endfor %}
+			{{ body }}
 
+			{% for post in site.posts %}
+				<article>
+					<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
+					<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
+					{{ post.teaser }}        
+				</article>
+			{% endfor %}
+
+		    </div>
 
 	</div><!-- end container -->
 	
