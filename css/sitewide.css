@@ -59,12 +59,7 @@ body {
 .front-grid {
 	grid-column: 1 / 4;
 	grid-row: 1 / 4;
-	display: grid;
 }
-
-/* article {
-	grid-row: repeat;
-} */
 
 .default-home {
 	grid-column: 5 / 6;
