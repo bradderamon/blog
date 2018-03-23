@@ -49,7 +49,6 @@ body {
 	border: 5px solid #eee;
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-	grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 	background-color: #E3DACD;
 }
 
@@ -57,9 +56,14 @@ body {
 	grid-column: 4 / 6;
 }
 
-.front-article {
+.front-grid {
 	grid-column: 1 / 4;
-	grid-row: 1 / 8;
+	grid-row: 1 / 4;
+	display: grid;
+}
+
+article {
+	grid-row: repeat;
 }
 
 .default-home {
