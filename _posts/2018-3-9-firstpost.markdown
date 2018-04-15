@@ -1,5 +1,5 @@
 ---
-title: "Brand new Smash Bros game?!?"
+title: "Brand new Smash Bros. game?"
 ---
 
 Nintendo announced a 2018 Super Smash Bros. game for the Switch yesterday afternoon.
