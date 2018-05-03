@@ -1,3 +1,7 @@
+---
+title: "Baraka Papers: Great Sources, Poor Design"
+---
+
 <img src="/blog/img/baraka-outer.jpg" alt="The chapter navigation of the Amiri Baraka Papers">
 <img src="/blog/img/baraka-inner.jpg" alt="The source navigation of the Amiri Baraka Papers">
 
