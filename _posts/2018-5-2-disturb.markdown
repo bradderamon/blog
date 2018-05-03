@@ -1,5 +1,5 @@
 ---
-title: "Title of page"
+title: "Subtle Design, No Disturbance"
 ---
 
 <img src="/blog/img/do-not-disturb.jpg" alt="A metal do-not-disturb sign on a door.">
