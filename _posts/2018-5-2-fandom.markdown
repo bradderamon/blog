@@ -1,0 +1,12 @@
+---
+title: "Fans v. Fandom: Videos or Not"
+---
+
+<img src="/blog/img/fandom-video.jpg" alt="A video on the top of a Fandom article">
+<img src="/blog/img/fandom-floater.jpg" alt="A pop-up of the video that floats on the side of the article">
+
+I use Fandom as a fan of pop culture stuff like movie and comic book franchises. However, Fandom recently added [pop-up videos](http://community.wikia.com/wiki/User_blog:Brandon_Rhea/Intro_to_Wiki_Modernization) at the top of high-traffic pages on popular wikias--fan-run Wikipedia-like encyclopedias for franchises--without the consent of the wikias' administrators.
+
+The videos are intrusive because they follow you on the page unless you click to close them, and they hinder page loading times. They also feature fan theory videos that have no place on an encyclopedia, i.e. a website based on fact. The other videos are written by staff of Fandom, who lack knowledge of the franchises, make lots of mistakes, and simply copy text from articles written by fans. Wikias also have no choice to remove them, creating a conflict between the fan-run mentality of the wikia and the business interests of Fandom.
+
+The videos are just narration with poor scripts put over compilations of fan art. This also contradicts the fact-based standard of the wikia's content.
