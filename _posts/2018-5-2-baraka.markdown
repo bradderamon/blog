@@ -1,0 +1,8 @@
+<img src="/blog/img/baraka-outer.jpg" alt="The chapter navigation of the Amiri Baraka Papers">
+<img src="/blog/img/baraka-inner.jpg" alt="The source navigation of the Amiri Baraka Papers">
+
+I had to look through this online catalogue of the Amiri Baraka Papers for my African American History class the other day, and I think the design is terribly inefficient. You have to go through text links just to flip through tens if not hundreds of pages to find a relevant primary source.
+
+<img src="/blog/img/baraka-ideal.jpg" alt="A screenshot of File Explorer">
+
+This kind of design would make more sense. Yes, it is just a screenshot of File Explorer, but giving a deeper preview of documents in both the chapter and source navigation pages would be far more efficient for finding the perfect primary source. I might sketch something a little more unique and send it to Archives Unbound at GALE.
