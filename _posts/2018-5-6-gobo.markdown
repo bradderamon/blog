@@ -1,0 +1,5 @@
+---
+title: "Filter Your Feed"
+---
+
+I read a fascinating [blog post](http://www.ethanzuckerman.com/blog/2017/11/16/who-filters-your-news-why-we-built-gobo-social/) a few days ago when I was working on my Conference website project. Ethan Zuckerman worked on a project called Gobo, a filtering service where users can control what kind of content they are seeing on Twitter and Facebook. This is to counter the algorithms of these platforms, which often show you exactly what you want to see (and agree with) and nothing else. I think the design of this service is simple and clever, and the purpose is paramount. I will be downloading this and sharing it with friends and some of my Communications professors. Gobo seems like a brilliant way to fight against the positive feedback loop of social media.
