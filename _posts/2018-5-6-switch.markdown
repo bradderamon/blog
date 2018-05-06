@@ -1,5 +1,5 @@
 ---
-title: "Title of page"
+title: "David vs. Goliath: Patent Battle"
 ---
 
 A week ago, a [small phone accessory company tried to claim that Nintendo had infringed on a patent with their console, the Nintendo Switch](https://www.engadget.com/2018/05/01/nintendo-switch-wikipad-gamevice-import-investigation-patent/). They filed a similar patent complaint last year, but it was dropped.
