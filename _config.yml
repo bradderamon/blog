@@ -1,7 +1,7 @@
 
 # Site settings
-title: Your awesome title
-description: A starter site
+title: Blog de Ramón
+description: A design blog
 baseurl: "/blog" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
 url: "http://bradderamon.github.io" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
 
