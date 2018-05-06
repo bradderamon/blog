@@ -4,7 +4,7 @@
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Your awesome title</title>
+	<title>Blog de Ramón</title>
 	<meta name="description" content="">
 	
 	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
@@ -33,7 +33,7 @@
         <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Your awesome title</title>
+		<title>Blog de Ramón</title>
 		<description>A starter site</description>
 		<link>http://adavidramos.github.io/web1-sp-dev</link>
 		<atom:link href="http://adavidramos.github.io/feed.xml" rel="self" type="application/rss+xml" />
